@@ -29,3 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # seat
 # seat
 # seat
+# seat
